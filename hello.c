@@ -1,7 +1,11 @@
 
 #include<stdio.h>
-int main
+int main()
 {
-    print("hello world")
+    printf("hello");
+     printf("hello");
+      printf("hello");
+      printf("hello");
+       printf("hello"); 
 }
 
