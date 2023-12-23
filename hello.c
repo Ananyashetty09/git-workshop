@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #include<stdio.h>
 int main()
@@ -9,3 +10,6 @@ int main()
        printf("hello"); 
 }
 
+=======
+
+>>>>>>> 628abd74fa9174d90f338369b5b402768ba1cbf8
